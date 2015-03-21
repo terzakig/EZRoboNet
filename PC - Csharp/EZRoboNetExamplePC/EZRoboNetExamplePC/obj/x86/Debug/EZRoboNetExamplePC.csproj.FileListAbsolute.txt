@@ -2,3 +2,5 @@ C:\Users\gterzakis\Desktop\Previous Projects\Masters Project\EZRoboNet\PC - Csha
 C:\Users\gterzakis\Desktop\Previous Projects\Masters Project\EZRoboNet\PC - Csharp\EZRoboNetExamplePC\EZRoboNetExamplePC\bin\Debug\EZRoboNetExamplePC.pdb
 C:\Users\gterzakis\Desktop\Previous Projects\Masters Project\EZRoboNet\PC - Csharp\EZRoboNetExamplePC\EZRoboNetExamplePC\obj\x86\Debug\EZRoboNetExamplePC.exe
 C:\Users\gterzakis\Desktop\Previous Projects\Masters Project\EZRoboNet\PC - Csharp\EZRoboNetExamplePC\EZRoboNetExamplePC\obj\x86\Debug\EZRoboNetExamplePC.pdb
+C:\Users\George\Desktop\MSC Robotics\Masters Project\EZRoboNet2\PC - Csharp\EZRoboNetExamplePC\EZRoboNetExamplePC\obj\x86\Debug\EZRoboNetExamplePC.exe
+C:\Users\George\Desktop\MSC Robotics\Masters Project\EZRoboNet2\PC - Csharp\EZRoboNetExamplePC\EZRoboNetExamplePC\obj\x86\Debug\EZRoboNetExamplePC.pdb
