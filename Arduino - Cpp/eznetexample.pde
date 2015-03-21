@@ -25,8 +25,6 @@
 
 
 
- LMMobileRobot *pcart;
-
      
 void setup() {
 	// Serial1 will be the designated communications serial port
