@@ -4,11 +4,9 @@ A network protocol for wireless serial communications - Arduino (C++) and PC (C#
 Description
 -----------
 EZRoboNet is a network protocol for robotics applications in which the robot acts more like a drone and 
-most of the processing is done remotely (most probably in PC). Each node in the network can be characterized as either 
-station or robot. Stations are poractically the stationary computers which control the drones and robots typically 
-correspondto drones.
+most of the processing is done remotely (most probably in PC). Each node in the network can be characterized as either station or robot. Stations are to the computers which control the drones; robot node types typically refer to drones.
 
-This protrocol offers essentially 3 thiongs: 1) transmission of data of arbitrary length (fragmentation and reassembly of
+This protrocol offers essentially 3 things: 1) transmission of data of arbitrary length (fragmentation and reassembly of
 packets), 2) Allows for the sharing of the same serial by managing multiple threads controlling separate robots in the 
 field and, 3) Does all the necessary handshaking and checking for reliable data transmission.
 
